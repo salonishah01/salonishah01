@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salonishah01" alt="salonishah01" /> </p>
 
-I'm a machine learning enthusiast who is really passionate about data and obtaining insights from it. A cup of tea, earphones on and coding all day long is what drives me. Apart from machine learning, Computer Vision and Deep Learning are my areas of interest. 
+I'm a machine learning enthusiast who is really passionate about data and obtaining insights from it. A cup of tea, earphones plugged and coding all day long is what drives me. Apart from machine learning, Computer Vision and Deep Learning are my areas of interest. 
 
 I am a passionate individual who thrives to build and apply algorithms to solve real-world problems.
 
