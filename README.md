@@ -4,13 +4,57 @@
 
 <h3 align="center">Undergrad at KLE TECHNOLOGICAL UNIVERSITY</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonishah01" alt="salonishah01" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonishah01" alt="salonishah01" /> </p>-->
 
 I'm a machine learning enthusiast who is really passionate about data and obtaining insights from it. A cup of tea, earphones plugged and coding all day long is what drives me. Apart from machine learning, Computer Vision and Deep Learning are my areas of interest. 
 
 I am a passionate individual who thrives to build and apply algorithms to solve real-world problems.
 
-- 💻 Some of my works are available at my [Github](https://github.com/salonishah01?tab=repositories)
+## ⚡ Language & Tools
+![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
+
+## Insights
+<details>
+<summary>Problem Solving 📝</summary>
+  <ul>
+    <li><a href="https://www.hackerrank.com/salonishah01">Hackerrank</a></li>
+    <li><a href="https://www.codechef.com/users/saloni_01">CodeChef</a></li>
+  </ul>
+</details>
+<details>
+<summary>Machine Laearning | Data Science 📊</summary>
+<ul>
+  <li><a href="https://github.com/salonishah01/Machine-Learning">Basic Machine Learning</a></li>
+  <li><a href="https://github.com/salonishah01/K-Means-Clustering-Algorithm">K Means Clustering Algorithm</a></li>
+  <li><a href="https://github.com/salonishah01/Naive-Bayes-Classifier">Naive Bayes Classifier</a></li>
+</ul>
+</details>
+<details>
+<summary>Computer Vision | Image Processing</summary>
+<ul>
+  <li><a href="https://github.com/salonishah01/Computer-Vision">Computer Vision</a></li>
+  <li><a href="https://github.com/salonishah01/Assignments-CVG-2020-">CVG Lab</a></li>
+</ul>
+</details>
+<details>
+  <summary>Projects💻</summary>
+  <ul>
+    <li><a href="https://github.com/salonishah01/AbolVani">AbolVani</a></li>
+    <li><a href="https://github.com/salonishah01/SparkAR-Final-Project-UNICEF">Open SparkAR Project</a></li>
+  </ul>
+</details>
+<details>
+  <summary>Open Source Contributions</summary>
+  <ul>
+    <li><a href="https://github.com/TesseractCoding/NeoAlgo">NeoAlgo</a></li>
+    <li><a href="https://github.com/ankitdobhal/Awesome-Python-Scripts">Awesome Python Scripts</a></li>
+  </ul>
+</details>
 
 - 💬 Ask me about **Data Structures and Algorithms, Image Processing, Machine Learning**
 
