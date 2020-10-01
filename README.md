@@ -27,7 +27,7 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
   </ul>
 </details>
 <details>
-<summary>Machine Laearning | Data Science 📊</summary>
+<summary>Machine Learning | Data Science 📊</summary>
 <ul>
   <li><a href="https://github.com/salonishah01/Machine-Learning">Basic Machine Learning</a></li>
   <li><a href="https://github.com/salonishah01/K-Means-Clustering-Algorithm">K Means Clustering Algorithm</a></li>
