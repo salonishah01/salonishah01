@@ -53,6 +53,7 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
   <ul>
     <li><a href="https://github.com/TesseractCoding/NeoAlgo">NeoAlgo</a></li>
     <li><a href="https://github.com/ankitdobhal/Awesome-Python-Scripts">Awesome Python Scripts</a></li>
+    <li><a href="https://github.com/smaranjitghose/ArtCV">ArtCV</a></li>
   </ul>
 </details>
 
