@@ -62,7 +62,7 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
 - 📫 How to reach me **saloshah01@gmail.com**
 <p align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonishah01&layout=compact&hide=html&theme=radical" alt="salonishah01" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonishah01&layout=compact&hide=html&theme=radical" alt="salonishah01" /><br><br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=salonishah01&show_icons=true&theme=radical" alt="salonishah01" />
 </p>
