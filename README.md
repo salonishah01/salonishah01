@@ -17,7 +17,7 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
-
+<!--
 ## Insights
 <details>
 <summary>Problem Solving 📝</summary>
@@ -56,10 +56,12 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
     <li><a href="https://github.com/smaranjitghose/ArtCV">ArtCV</a></li>
   </ul>
 </details>
+-->
+<!--
+- 💬 Ask me about **Data Structures and Algorithms, Image Processing, Machine Learning**-->
+<!--
+- 📫 How to reach me **saloshah01@gmail.com**-->
 
-- 💬 Ask me about **Data Structures and Algorithms, Image Processing, Machine Learning**
-
-- 📫 How to reach me **saloshah01@gmail.com**
 <p align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonishah01&layout=compact&hide=html&theme=radical" alt="salonishah01" />
