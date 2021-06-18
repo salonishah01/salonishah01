@@ -62,7 +62,7 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
 <!--
 - 📫 How to reach me **saloshah01@gmail.com**-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salonishah01)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salonishah01)](https://git.io/streak-stats)-->
 
 <p align="center">
 
